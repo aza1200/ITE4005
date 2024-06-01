@@ -1,5 +1,5 @@
 # ITE4005
-한양대학교 DataScience  수업과목   
+한양대학교 2024-1 DataScience  수업과목
 guidline은 각 Assignment 폴더안에 있습니다. 
 
 ## Assignment 1: [Apriori algorithm](https://en.wikipedia.org/wiki/Apriori_algorithm)
